@@ -1,0 +1,38 @@
+.actions {
+  opacity: 1;
+}
+
+tr:hover .actions {
+  opacity: 1;
+}
+
+tbody td a {
+  color: #222;
+
+  &:hover {
+    color: #222;
+  }
+}
+
+.show
+{
+  display: none;
+}
+
+.card-body
+{
+  
+
+	background-color: #dfdfdf;
+  border-radius: 6px;
+  width: 100%;
+	
+}
+
+.actionButtons
+{
+  float: right;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -40px;
+}
