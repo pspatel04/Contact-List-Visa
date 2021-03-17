@@ -4,7 +4,7 @@ Contact Book using React Redux
 # Install dependencies
 npm install
 
-# Serve on localhost:3000
+# Run the app
 npm start
 
 # Build for production
